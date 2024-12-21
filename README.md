@@ -1,7 +1,6 @@
+# The CSIT syllabus encompasses the following sections:
 
 **1. Computer Science and Information Technology (CSIT):**
-
-The CSIT syllabus encompasses the following sections:
 
 - **Section 1: Engineering Mathematics**
   - *Discrete Mathematics*: Propositional and first-order logic, sets, relations, functions, partial orders, lattices, monoids, groups, graphs (connectivity, matching, coloring), combinatorics (counting, recurrence relations, generating functions).
@@ -36,11 +35,10 @@ The CSIT syllabus encompasses the following sections:
 - **Section 10: Computer Networks**
   - ISO/OSI stack, LAN technologies (Ethernet), flow and error control techniques, routing algorithms, congestion control, TCP/UDP, IPv4, application layer protocols (HTTP, FTP, SMTP, POP3), basics of Wi-Fi, network security (authentication, basics of public key and private key cryptography, digital signatures, firewalls).
 
-For a detailed syllabus, you can refer to the official GATE 2024 document: 
+
+# The DA syllabus includes the following sections:
 
 **2. Data Science and Artificial Intelligence (DA):**
-
-The DA syllabus includes the following sections:
 
 - **Section 1: Probability and Statistics**
   - Counting (permutations and combinations), probability axioms, sample space, events, independent and mutually exclusive events, marginal, conditional, and joint probability, Bayes’ theorem, conditional expectation and variance, mean, median, mode, standard deviation, correlation, covariance, random variables (discrete and continuous), probability distributions (uniform, Bernoulli, binomial, exponential, Poisson, normal, standard normal, t-distribution, chi-squared distributions), cumulative distribution function, central limit theorem, confidence intervals, hypothesis testing (z-test, t-test, chi-squared test).
